@@ -24,6 +24,7 @@ function Monster({
                 <br />
                 공격속성: {elemental}
             </h3>
+            <h4>특이사항: {etc}</h4>
         </div>
     );
 }
