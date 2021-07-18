@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ornapage/static/css/main.c03d98d1.chunk.css",
-    "main.js": "/ornapage/static/js/main.afaa892a.chunk.js",
-    "main.js.map": "/ornapage/static/js/main.afaa892a.chunk.js.map",
+    "main.css": "/ornapage/static/css/main.3318b657.chunk.css",
+    "main.js": "/ornapage/static/js/main.37342494.chunk.js",
+    "main.js.map": "/ornapage/static/js/main.37342494.chunk.js.map",
     "runtime-main.js": "/ornapage/static/js/runtime-main.1f32e0ce.js",
     "runtime-main.js.map": "/ornapage/static/js/runtime-main.1f32e0ce.js.map",
     "static/js/2.0cc9c01f.chunk.js": "/ornapage/static/js/2.0cc9c01f.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.e99414b9.chunk.js": "/ornapage/static/js/3.e99414b9.chunk.js",
     "static/js/3.e99414b9.chunk.js.map": "/ornapage/static/js/3.e99414b9.chunk.js.map",
     "index.html": "/ornapage/index.html",
-    "static/css/main.c03d98d1.chunk.css.map": "/ornapage/static/css/main.c03d98d1.chunk.css.map",
+    "static/css/main.3318b657.chunk.css.map": "/ornapage/static/css/main.3318b657.chunk.css.map",
     "static/js/2.0cc9c01f.chunk.js.LICENSE.txt": "/ornapage/static/js/2.0cc9c01f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1f32e0ce.js",
     "static/js/2.0cc9c01f.chunk.js",
-    "static/css/main.c03d98d1.chunk.css",
-    "static/js/main.afaa892a.chunk.js"
+    "static/css/main.3318b657.chunk.css",
+    "static/js/main.37342494.chunk.js"
   ]
 }
