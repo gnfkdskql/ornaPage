@@ -84,6 +84,24 @@ const monsterList = [
         img: "/img/yggdrasil.png",
         etc: "",
     },
+    {
+        name: "타이탄",
+        attack: 2,
+        magic: 2,
+        debuff: ["부패, 방깎, 석화, 빙결, 수면, 기절"],
+        elemental: ["땅"],
+        img: "/img/titan.png",
+        etc: "",
+    },
+    {
+        name: "발러엘리트",
+        attack: 2,
+        magic: 1,
+        debuff: ["실명, 역병, 방깎"],
+        elemental: ["불"],
+        img: "/img/yggdrasil.png",
+        etc: "",
+    },
 ];
 
 class App extends React.Component {
