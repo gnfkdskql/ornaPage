@@ -99,7 +99,7 @@ const monsterList = [
         magic: 1,
         debuff: ["실명, 역병, 방깎"],
         elemental: ["불"],
-        img: "/img/yggdrasil.png",
+        img: "/img/balor_knight.png",
         etc: "",
     },
 ];
